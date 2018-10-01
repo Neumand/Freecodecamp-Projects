@@ -1,0 +1,27 @@
+html,body{
+  font-family:"Segoe UI", Helvetica, sans-serif;
+  text-align:center;
+  color: black;
+  background: rgba(45, 45, 45, 0.1);
+}
+#main{
+  margin:30px auto;
+  padding:5px;
+  border-radius:15px;
+}
+blockquote{
+  font-style: italic;
+}
+p{
+  text-align: left;
+  font-size: 18px;
+}
+h2{
+  font-size: 18px;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
